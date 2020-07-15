@@ -66,3 +66,19 @@ for (var i = 1; i < food.length; i++) {
 }
 
 
+const cars = ["Tesla", "Honda", "Toyota", "Ford"];
+console.log(cars)
+
+for (let i = 0; i < cars.length; i++) {
+    let eachCar = cars[i]; // Tesla, 
+    console.log(eachCar);
+}
+
+// var otherNumber = 1;
+// otheNumber += 1;
+// otherNumber = otherNumber + 1
+
+// let i = 0;
+// i = i +i;
+// i += 1;
+// i++:
