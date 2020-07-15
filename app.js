@@ -28,3 +28,30 @@ while (myOtherNumber < numberTwo){
 
 
 }
+
+
+var numberThree = 5;
+var myOtherNumberTwo = 15;
+
+while (myOtherNumberTwo < numberThree){
+    console.log(myOtherNumberTwo); 
+    myOtherNumberTwo += 1; 
+
+
+}
+
+// for loops
+
+for (var i = 0; i < 10; i++){
+    console.log(i); // 0, 1, 2, 3
+}
+
+// print teams
+
+for (var 1 = 0; i < teams.length; i++) {
+    var eachTeam = teams[i]; // Rockets, Lakers, Warriors ...
+    console.log(eachTeam);
+}
+
+
+
