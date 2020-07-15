@@ -48,10 +48,21 @@ for (var i = 0; i < 10; i++){
 
 // print teams
 
-for (var 1 = 0; i < teams.length; i++) {
+for (var i = 0; i < teams.length; i++) {
     var eachTeam = teams[i]; // Rockets, Lakers, Warriors ...
     console.log(eachTeam);
 }
 
+// Make an array
+// Use a for loop to iterate through your array
+// print each element in your array
+
+var food = ["pizza","soup", "bread", "veggies", "fruit","yogurt","cheese"]
+console.log(teams);
+
+for (var i = 1; i < food.length; i++) {
+    var foodItems = food[i];
+    console.log(foodItems); 
+}
 
 
