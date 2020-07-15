@@ -90,5 +90,32 @@ const steven = {
     fullName: "Steven Michaud",
     age: 27,
     myLocation: "Atlanta",
-    placesTraveled: ["Louisiana", "California", "Tennessee", "Florida"]
+    placesTraveled: ["Louisiana", "California", "Tennessee", "Florida"] 
 }
+
+
+    console.log(steven);
+
+    // myLocation
+    console.log(steven.myLocation);
+
+    //print "Tennessee"
+
+    console.log(steven.placesTraveled[2]);
+
+    const myReallyCoolPost = {
+        username: "@generalassembly",
+        likes: 1200,
+        comments:["really cool post", "nice", "javascript is cool", "woah"],
+        caption: "Day 3 of SEI",
+        picture: "https://instagram.com/generalassembly/.....",
+        shares: 12
+
+    }
+    console.log(myReallyCoolPost);
+
+    myReallyCoolPost.location = "Atlanta";
+    console.log(myReallyCoolPost);
+// likes, captions, shares, comments, username, picture
+
+// instagram post object 
