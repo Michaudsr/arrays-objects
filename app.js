@@ -82,3 +82,13 @@ for (let i = 0; i < cars.length; i++) {
 // i = i +i;
 // i += 1;
 // i++:
+
+//Objects
+// key: value pairs
+
+const steven = {
+    fullName: "Steven Michaud",
+    age: 27,
+    myLocation: "Atlanta",
+    placesTraveled: ["Louisiana", "California", "Tennessee", "Florida"]
+}
